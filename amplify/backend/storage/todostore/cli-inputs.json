@@ -1,0 +1,14 @@
+{
+  "resourceName": "todostore",
+  "policyUUID": "eb0de99a",
+  "bucketName": "amplifyreact",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
